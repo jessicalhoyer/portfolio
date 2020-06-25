@@ -1,11 +1,11 @@
-<head>
+
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
 <link rel="stylesheet" href="main.css" />
 
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
-</head>
+
 <body>
 
 <div id="wrapper">
