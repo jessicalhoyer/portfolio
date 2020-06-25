@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
+
+</body>
 <head>
-<!-- 
-	Author: Jessica Hoyer
-	Date: 6/10/20
-	File: index.html
--->
-
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
 <link rel="stylesheet" href="main.css" />
@@ -17,25 +8,8 @@
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
 
-<title>Jess Codes</title>
-
 </head>
 <body>
-
-<header>
-<a href="top"></a>
-<!--
-<nav>
-	<ul>
-		<li>JESS CODES</li>
-		<li><a href="#top">Home</a></li>
-		<li><a href="#projects">Projects</a></li>
-		<li><a href="#contact">Contact</a></li>
-	</ul>
-</nav>
--->
-
-</header>
 
 <div id="wrapper">
 
