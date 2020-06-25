@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<head>
+<!-- 
+	Author: Jessica Hoyer
+	Date: 6/10/20
+	File: index.html
+-->
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+<!-- my stylesheets -->
+<link rel="stylesheet" href="reset.css" />
+<link rel="stylesheet" href="main.css" />
+
+
+<!-- font awesome -->
+<script src="https://use.fortawesome.com/eddcda57.js"></script>
+
+<title>Jess Codes</title>
+
+</head>
+<body>
+
+<header>
+<a href="top"></a>
+<!--
+<nav>
+	<ul>
+		<li>JESS CODES</li>
+		<li><a href="#top">Home</a></li>
+		<li><a href="#projects">Projects</a></li>
+		<li><a href="#contact">Contact</a></li>
+	</ul>
+</nav>
+-->
+
+</header>
+
+<div id="wrapper">
+
+<h1><a href="index.html">&lt; / jess codes &gt;</a></h1>
+
+<div id="projects">
+
+<h2>Linguistics 101</h2>
+
+<img src="images/02.jpg" class="projectimg"/>
+
+<div class="projectbtn">
+<button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
+</div>
+
+<div class="row">
+<div class="column">
+	<h3>Summary</h3>
+	<p>This was my final project for my web development technnologies class. It is an informational website about the basics of linguistics. This site was built from scratch, with sketches to figure out the site layout. It was then coded with HTML and CSS. The logo was designed by me in Photoshop. The site content was written by me using various resources on linguistics. All of the site components were recorded with documentation for future use.</p>
+</div>
+
+<div class="column">
+	<h3>Skills</h3>
+	<p><ul><li> HTML
+	</li><li> CSS
+	</li><li> Web content writing
+	</li><li> UI/UX wireframes
+	</li><li> Documentation
+	</li><li> Graphic design with Photoshop
+	</li></ul></p>
+</div>
+</div>
+
+</div>
+
+<div class="projectbtn">
+<button><a href="index.html">Back to Home</a></button>
+</div>
+
+</div>
+
+<footer>
+&copy; Jessica Hoyer
+</footer>
+
+</body>
+</html>
