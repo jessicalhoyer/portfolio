@@ -13,8 +13,6 @@
 
 <div id="wrapper">
 
-<h1><a href="index.html">&lt; / jess codes &gt;</a></h1>
-
 <div id="main">
 
 <p>I'm <em>Jessica Hoyer</em>, a web developer with a passion for web technologies.</p>
