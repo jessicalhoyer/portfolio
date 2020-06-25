@@ -45,7 +45,7 @@
 	<img src="02.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
-	<button><a href="lingproj.md">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
+	<button><a href="lingproj">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
 	</div>
 </div>
 
@@ -55,7 +55,7 @@
 	<img src="04.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
-	<button><a href="mbproj.md">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
+	<button><a href="mbproj">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
 	</div>
 </div>
 
@@ -65,7 +65,7 @@
 	<img src="05.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
-	<button><a href="logproj.md">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
+	<button><a href="logproj">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
 	</div>
 </div>
 
