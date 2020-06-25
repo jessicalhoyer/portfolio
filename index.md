@@ -61,7 +61,7 @@
 <div class="column">
 	<h3 class="center">Buttweiler Environmental Portal</h3>
 
-	<img src="images/01.jpg" class="projecttn"/>
+	<img src="01.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
 	<button><a href="bweproj.html">View Details</a></button> <button><a href="https://buttweiler-environmental.com/portal" target="_blank">View Project</a></button>
@@ -71,7 +71,7 @@
 <div class="column">
 	<h3 class="center">Linguistics 101</h3>
 
-	<img src="images/02.jpg" class="projecttn"/>
+	<img src="02.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
 	<button><a href="lingproj.html">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
@@ -81,7 +81,7 @@
 <div class="column">
 	<h3 class="center">Moonbeam Publishing</h3>
 
-	<img src="images/04.jpg" class="projecttn"/>
+	<img src="04.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
 	<button><a href="mbproj.html">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
@@ -91,7 +91,7 @@
 <div class="column">
 	<h3 class="center">Logbook Database</h3>
 
-	<img src="images/05.jpg" class="projecttn"/>
+	<img src="05.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
 	<button><a href="logproj.html">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
