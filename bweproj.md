@@ -15,7 +15,7 @@
 <h2>Buttweiler Environmental Portal</h2>
 
 
-<img src="images/01.jpg" class="projectimg"/>
+<img src="01.jpg" class="projectimg"/>
 
 <div class="projectbtn">
 <button><a href="https://buttweiler-environmental.com/portal" target="_blank">View Project</a></button>
