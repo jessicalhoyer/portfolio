@@ -1,5 +1,4 @@
 
-</body>
 <head>
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
@@ -104,4 +103,3 @@
 </footer>
 
 </body>
-</html>
