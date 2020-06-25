@@ -1,0 +1,189 @@
+/*
+	Author: Jessica Hoyer
+	Date: 6/10/20
+	File: main.css
+*/
+
+/* project column layout */
+
+.column {
+	float:left;
+	width:50%;
+	padding:1em;
+}
+
+.row:after {
+	content: "";
+	display:table;
+	clear:both;
+}
+
+@media screen and (max-width:1015px) {
+	
+	.column {
+		width:100%;
+	}
+}
+
+/* main elements */
+
+body {
+	background-image:url(images/bg2.png);
+	background-attachment:fixed;
+	color:#ccc;
+	font-family:'Open Sans', helvetica, sans-serif;
+	font-size:0.9em;
+}
+
+.center {
+	text-align:center;
+}
+
+ul li {
+	font-size:0.9em;
+}
+
+footer {
+	text-align:center;
+}
+
+/* image styles */
+
+.projecttn {
+	opacity:0.6;
+	max-width:100%;
+	
+	transition:all 0.5s ease;
+}
+
+.projecttn:hover {
+	opacity:1;
+}
+
+.projectimg {
+	opacity:0.6;
+	max-width:70%;
+	margin:auto;
+	display:block;
+	
+	transition:all 0.5s ease;
+}
+
+.projectimg:hover {
+	opacity:1;
+}
+
+/* containers */
+
+#wrapper {
+	width:70%;
+	margin:1em auto;
+	background-color:#141a25;
+	padding:2em;
+	border:3px solid #111;
+}
+
+
+/* text style */
+
+h1 {
+	font-weight:normal;
+	text-align:center;
+	font-size:3em;
+	font-family:monospace;
+	letter-spacing:3px;
+	margin:1em;
+}
+
+h2 {
+	font-size:2em;
+	color:#fff;
+	letter-spacing:1px;
+	text-align:center;
+}
+
+h3 {
+	font-size:1.5em;
+}
+
+p {
+	font-size:0.9em;
+	text-align:justify;
+	line-height:1.4em;
+}
+
+em {
+	color:#fff;
+	letter-spacing:1px;
+	font-weight:bold;
+}
+
+/* navigation menu */
+
+nav ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#141a25;
+	position:fixed;
+	top:0;
+	width:100%;
+	text-align:center;
+	box-shadow:0px 1px 9px black;
+}
+
+nav li {
+	float:left;
+	display:inline;
+	padding:0.7em 0.5em;
+}
+
+/* links */
+
+a, a:active, a:visited {
+	color:#a2a2a2;
+	text-decoration:none;
+	
+	transition:all 0.6s ease;
+}
+
+a:hover {
+	color:#fff;
+}
+
+/* buttons */
+
+button {
+	background-color:#292F39;
+	padding:0.5em;
+	border:none;
+	margin:0.1em;
+	border:1px solid #111;
+}
+
+.projectbtn {
+	text-align:center;
+	padding:1em;
+}
+
+/* form elements */
+
+form {
+	margin:auto;
+	display:block;
+}
+
+label {
+	margin:0.5em;
+	font-size:0.9em;
+	font-weight:bold;
+}
+
+input, textarea, select, option {
+	background-color:#292F39;
+	color:#ccc;
+	border:1px solid #111;
+	padding:0.5em;
+	margin:0.1em;
+}
