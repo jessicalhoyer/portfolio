@@ -4,8 +4,6 @@
 
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
-
-</head>
 <body>
 
 <div id="wrapper">
