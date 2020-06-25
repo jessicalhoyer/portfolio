@@ -34,7 +34,7 @@
 	<img src="01.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
-	<button><a href="bweproj.md">View Details</a></button> <button><a href="https://buttweiler-environmental.com/portal" target="_blank">View Project</a></button>
+	<button><a href="bweproj">View Details</a></button> <button><a href="https://buttweiler-environmental.com/portal" target="_blank">View Project</a></button>
 	</div>
 </div>
 
