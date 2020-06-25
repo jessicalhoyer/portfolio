@@ -1,4 +1,3 @@
-
 <head>
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
