@@ -76,7 +76,6 @@ footer {
 /* containers */
 
 #wrapper {
-	width:70%;
 	margin:1em auto;
 	background-color:#141a25;
 	padding:2em;
@@ -144,6 +143,7 @@ nav li {
 a, a:active, a:visited {
 	color:#a2a2a2;
 	text-decoration:none;
+	font-size:0.9em;
 	
 	transition:all 0.6s ease;
 }
