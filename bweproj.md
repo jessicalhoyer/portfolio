@@ -6,8 +6,6 @@
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
 
-<body>
-
 <div id="wrapper">
 
 <div id="projects">
@@ -55,5 +53,3 @@
 <footer>
 &copy; Jessica Hoyer
 </footer>
-
-</body>
