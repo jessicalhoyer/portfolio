@@ -1,0 +1,50 @@
+
+<!-- my stylesheets -->
+<link rel="stylesheet" href="reset.css" />
+<link rel="stylesheet" href="main.css" />
+
+<!-- font awesome -->
+<script src="https://use.fortawesome.com/eddcda57.js"></script>
+
+<div id="wrapper">
+
+<div id="projects">
+
+<h2>Moonbeam Publishing</h2>
+
+
+<img src="04.jpg" class="projectimg"/>
+
+<div class="projectbtn">
+<button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
+</div>
+
+<div class="row">
+<div class="column">
+	<h3>Summary</h3>
+	<p>Moonbeam Publishing was my final project for my scripting languages class. For the assignment, we were required to build a website with functioning JavaScript programming to calculate pricing totals as well as form validation. This site was built entirely from scratch with sketches to figure out the site layout. It was then coded with HTML, CSS, and JavaScript.</p>
+</div>
+
+<div class="column">
+	<h3>Skills</h3>
+	<p><ul><li> HTML
+  </li><li> CSS
+  </li><li> JavaScript
+  </li><li> UI/UX wireframes
+  </li><li> Graphic Design with Photoshop
+	</li></ul></p>
+</div>
+</div>
+
+</div>
+
+
+<div class="projectbtn">
+<button><a href="https://jessicalhoyer.github.io/portfolio">Back to Home</a></button>
+</div>
+
+</div>
+
+<footer>
+&copy; Jessica Hoyer
+</footer>
