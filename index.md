@@ -64,7 +64,7 @@
 	<img src="05.jpg" class="projecttn"/>
 
 	<div class="projectbtn">
-	<button><a href="logproj">View Details</a></button> <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="_blank">View Code</a></button>
+	<button><a href="logproj">View Details</a></button> <button><a href="" target="_blank">View Code</a></button>
 	</div>
 </div>
 
