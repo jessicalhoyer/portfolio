@@ -1,3 +1,4 @@
+<head>
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
 <link rel="stylesheet" href="main.css" />
@@ -6,16 +7,13 @@
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
 
-</head>
-<body>
-
 <div id="wrapper">
 
 <div id="projects">
 
 <h2>Linguistics 101</h2>
 
-<img src="images/02.jpg" class="projectimg"/>
+<img src="02.jpg" class="projectimg"/>
 
 <div class="projectbtn">
 <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
@@ -50,6 +48,3 @@
 <footer>
 &copy; Jessica Hoyer
 </footer>
-
-</body>
-</html>
