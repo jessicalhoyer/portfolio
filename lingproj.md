@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<head>
+<!-- 
+	Author: Jessica Hoyer
+	Date: 6/10/20
+	File: index.html
+-->
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 <!-- my stylesheets -->
 <link rel="stylesheet" href="reset.css" />
@@ -7,13 +17,35 @@
 <!-- font awesome -->
 <script src="https://use.fortawesome.com/eddcda57.js"></script>
 
+<title>Jess Codes</title>
+
+</head>
+<body>
+
+<header>
+<a href="top"></a>
+<!--
+<nav>
+	<ul>
+		<li>JESS CODES</li>
+		<li><a href="#top">Home</a></li>
+		<li><a href="#projects">Projects</a></li>
+		<li><a href="#contact">Contact</a></li>
+	</ul>
+</nav>
+-->
+
+</header>
+
 <div id="wrapper">
+
+<h1><a href="index.html">&lt; / jess codes &gt;</a></h1>
 
 <div id="projects">
 
 <h2>Linguistics 101</h2>
 
-<img src="02.jpg" class="projectimg"/>
+<img src="images/02.jpg" class="projectimg"/>
 
 <div class="projectbtn">
 <button><a href="" target="_blank">View Project</a></button> <button><a href="" target="blank">View Code</a></button>
@@ -48,3 +80,6 @@
 <footer>
 &copy; Jessica Hoyer
 </footer>
+
+</body>
+</html>
