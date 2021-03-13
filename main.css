@@ -4,24 +4,22 @@
 	File: main.css
 */
 
-/* project column layout */
+/* project flex layout */
+
+.row {
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	align-items:center;
+}
 
 .column {
-	float:left;
-	width:50%;
 	padding:1em;
 }
 
-.row:after {
-	content: "";
-	display:table;
-	clear:both;
-}
-
-@media screen and (max-width:1015px) {
-	
-	.column {
-		width:100%;
+@media (max-width:970px) {
+	.row {
+		flex-direction:column;
 	}
 }
 
